@@ -271,3 +271,9 @@ replace github.com/cloudflare/circl => github.com/cunicu/circl v0.0.0-2023080111
 replace github.com/pion/ice/v4 => github.com/netbirdio/ice/v4 v4.0.0-20250908184934-6202be846b51
 
 replace github.com/libp2p/go-netroute => github.com/netbirdio/go-netroute v0.0.0-20240611143515-f59b0e1d3944
+
+// Barrer Security Mesh VPN fork
+replace github.com/netbirdio/netbird => github.com/BarrerSoftware/barrer-security-mesh-vpn v0.0.0
+
+// Barrer Security Mesh VPN - our fork
+replace github.com/netbirdio/netbird => github.com/BarrerSoftware/barrer-security-mesh-vpn v0.0.0
